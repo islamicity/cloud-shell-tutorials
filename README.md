@@ -9,5 +9,8 @@ You can find the online documentation
 [here](https://cloud.google.com/shell/docs/tutorials).
 Click the open in Cloud Shell button below to run a sample tutorial yourself.
 
+git_repo=https://github.com/islamicity/cloud-shell-tutorials.git
+tutorial=tutorial.md
+
 [![Open this project in Cloud
 Shell](http://gstatic.com/cloudssh/images/open-btn.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/islamicity/cloud-shell-tutorials.git&page=editor&tutorial=tutorial.md)
